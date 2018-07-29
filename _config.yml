@@ -1,2 +1,4 @@
 name: testing
-theme: slate
+title: testing github pages
+description: some description
+theme: jekyll-theme-slate
