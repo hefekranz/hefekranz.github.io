@@ -8,34 +8,43 @@
 	>
 
 <channel>
-	<title>wp-test</title>
+	<title>Hello You!</title>
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 02 Oct 2022 12:22:56 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sun, 02 Oct 2022 13:14:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/10/undraw_Hiking_re_k0bc-150x150.png</url>
+	<title>Hello You!</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<title>Hello there</title>
+		<link>/hello-there/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 02 Oct 2022 12:22:56 +0000</pubDate>
+		<pubDate>Sun, 02 Oct 2022 13:13:53 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/?p=7</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[This is a sample Post. I&#8217;m trying to find a cheap and simple way to host generate a Webpage.]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>This is a sample Post. I&#8217;m trying to find a cheap and simple way to host generate a Webpage. </p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="576" src="/wp-content/uploads/2022/10/MGj9xPM-1024x576.jpg" alt="" class="wp-image-9" srcset="/wp-content/uploads/2022/10/MGj9xPM-1024x576.jpg 1024w, /wp-content/uploads/2022/10/MGj9xPM-300x169.jpg 300w, /wp-content/uploads/2022/10/MGj9xPM-768x432.jpg 768w, /wp-content/uploads/2022/10/MGj9xPM-1536x864.jpg 1536w, /wp-content/uploads/2022/10/MGj9xPM.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Just a test image, nothing to worry</figcaption></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
